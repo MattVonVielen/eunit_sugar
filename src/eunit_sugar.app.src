@@ -1,0 +1,8 @@
+{application, eunit_sugar,
+ [
+  {description, "Helpers and sugars for eunit tests"},
+  {vsn, "git"},
+  {maintainers, ["Matt Campbell"]},
+  {licenses, ["Apache"]},
+  {links, [{"Github", "https://github.com/xenolinguist/eunit_sugar"}]}
+ ]}.
